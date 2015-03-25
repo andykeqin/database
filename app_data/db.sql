@@ -28,8 +28,8 @@ CREATE TABLE `user`(
 INSERT INTO `user`(firstname,lastname,email,`password`,groupid,role)
 VALUE
 ('admin','','admin@example.com',MD5('123'),NULL,1),
-('test','aa','test1@gmail.com',MD5('123'),1,0),
-('test','bb','test2@gmail.com',MD5('123'),1,0);
+('test','aa','test1@test.com',MD5('123'),1,0),
+('test','bb','test2@test.com',MD5('123'),1,0);
 
 -- report
 CREATE TABLE report(
