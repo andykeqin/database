@@ -81,7 +81,7 @@
             <?php if ($group['review'] == $report['groupid'] && count($hasComment) == 0) { ?>
             <form action="" method="post">
                 <p>
-                    <label for="txt-assessment">Mark (0-100)</label>
+                    <label for="txt-assessment">Mark (Please enter the mark from 0 to 100)</label>
                     <input type="text" id="txt-assessment" name="assessment" />
                 </p>
                 <p>
