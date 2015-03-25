@@ -31,7 +31,7 @@
             <table class="table">
                 <thead>
                     <tr>
-                        <th>Group Name (Please enter the group name as format group1. )</th>
+                        <th>Group Name</th>
                         <th>Allocate to review</th>
                         <th></th>
                     </tr>
