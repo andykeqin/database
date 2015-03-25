@@ -39,23 +39,23 @@
 <div class="container-fluid">
     <div class="row-fluid">
         <div class="span12">
-            <h3>Create</h3>
+            <h3>New Report</h3>
             <form class="form-horizontal" action="" method="post" enctype="multipart/form-data">
                 <div class="control-group">
-                    <label class="control-label" for="inputName">Name</label>
+                    <label class="control-label" for="inputName">Title</label>
                     <div class="controls">
-                        <input type="text" name="name" id="inputName" placeholder="Name" />
+                        <input type="text" name="name" id="inputName" placeholder="Enter Report Title" />
                     </div>
                 </div>
                 <div class="control-group">
-                    <label class="control-label" for="inputFile">File</label>
+                    <label class="control-label" for="inputFile">Update File</label>
                     <div class="controls">
                         <input type="file" name="file" id="inputName" />
                     </div>
                 </div>
                 <div class="control-group">
                     <div class="controls">
-                        <button type="submit" class="btn btn-primary">Create</button>
+                        <button type="submit" class="btn btn-primary">Submit</button>
                     </div>
                 </div>
             </form>
