@@ -56,7 +56,7 @@
                     <?php } ?>
                 </tbody>
             </table>
-            <h3>Allocate to review</h3>
+            <h3>Repor to review</h3>
             <table class="table">
                 <thead>
                     <tr>
