@@ -39,7 +39,7 @@
                 <div class="control-group">
                     <label class="control-label" for="inputName">Group Name</label>
                     <div class="controls">
-                        <input type="text" id="inputName" name="name" placeholder="Enter your group name as format group1" />
+                        <input type="text" id="inputName" name="name" placeholder="Enter your group name" />
                     </div>
                 </div>
                 <div class="control-group">
