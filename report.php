@@ -35,7 +35,7 @@
             <table class="table">
                 <thead>
                     <tr>
-                        <th>Name</th>
+                        <th>Title</th>
                         <th>Author</th>
                         <th>Group</th>
                         <th>Create Time</th>
@@ -60,7 +60,7 @@
             <table class="table">
                 <thead>
                     <tr>
-                        <th>Name</th>
+                        <th>Title</th>
                         <th>Author</th>
                         <th>Group</th>
                         <th>Create Time</th>
