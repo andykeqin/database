@@ -60,7 +60,7 @@
                 </div>
                 </form>
             <p>
-                <a href="group.php">Back to List</a>
+                <a href="group.php">Go Back</a>
             </p>
         </div>
     </div>
