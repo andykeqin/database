@@ -69,7 +69,7 @@
             <p>
                 <?php readfile($report['url']); ?>
             </p>
-            <h3>Assessments and comments</h3>
+            <h3>Marks and Comments</h3>
             <?php if ($report['groupid'] == $_SESSION['groupid']) { ?>
             <h4>rank: <?php echo $rank; ?></h4>
             <?php } ?>
@@ -81,11 +81,11 @@
             <?php if ($group['review'] == $report['groupid'] && count($hasComment) == 0) { ?>
             <form action="" method="post">
                 <p>
-                    <label for="txt-assessment">assessment</label>
+                    <label for="txt-assessment">Mark (0-100)</label>
                     <input type="text" id="txt-assessment" name="assessment" />
                 </p>
                 <p>
-                    <label for="txt-comment">comment</label>
+                    <label for="txt-comment">Comment (Please enter your comments here.)</label>
                     <input type="text" id="txt-comment" name="comment" />
                 </p>
                 <p>
@@ -94,7 +94,7 @@
             </form>
             <?php } ?>
             <p>
-                <a href="report.php">Back to List</a>
+                <a href="report.php">Go Back</a>
             </p>
         </div>
     </div>
