@@ -60,7 +60,7 @@
                 </div>
             </form>
             <p>
-                <a href="report.php">Back to List</a>
+                <a href="report.php">Go Back</a>
             </p>
         </div>
     </div>
