@@ -43,25 +43,25 @@
                 <div class="control-group">
                     <label class="control-label" for="inputFirstname">First Name</label>
                     <div class="controls">
-                        <input type="text" name="firstname" id="inputFirstname" />
+                        <input type="text" name="firstname" id="inputFirstname" placeholder="Enter First name" />
                     </div>
                 </div>
                 <div class="control-group">
                     <label class="control-label" for="inputlastname">Last Name</label>
                     <div class="controls">
-                        <input type="text" name="lastname" id="inputLastname" />
+                        <input type="text" name="lastname" id="inputLastname" placeholder="Enter Second name" />
                     </div>
                 </div>
                 <div class="control-group">
                     <label class="control-label" for="inputEmail">Email</label>
                     <div class="controls">
-                        <input type="text" name="email" id="inputEmail" />
+                        <input type="text" name="email" id="inputEmail" placeholder="Enter email" />
                     </div>
                 </div>
                 <div class="control-group">
                     <label class="control-label" for="inputPassword">Password</label>
                     <div class="controls">
-                        <input type="password" name="password" id="inputPassword" />
+                        <input type="password" name="password" id="inputPassword" placeholder="Enter password"/>
                     </div>
                 </div>
                 <div class="control-group">
@@ -82,7 +82,7 @@
                 </div>
             </form>
             <p>
-                <a href="student.php">Back to List</a>
+                <a href="student.php">Go Back</a>
             </p>
         </div>
     </div>
