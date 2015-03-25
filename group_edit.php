@@ -47,7 +47,7 @@
             <h3>Edit</h3>
             <form action="" method="post" class="form-horizontal">
                 <div class="control-group">
-                    <label class="control-label" for="inputName">Name</label>
+                    <label class="control-label" for="inputName">Group Name</label>
                     <div class="controls">
                         <input type="text" id="inputName" value="<?php echo $group['name']; ?>" name="name" />
                     </div>
@@ -70,7 +70,7 @@
                 </div>
                 </form>
             <p>
-                <a href="group.php">Back to List</a>
+                <a href="group.php">Go Back</a>
             </p>
         </div>
     </div>
