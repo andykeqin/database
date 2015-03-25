@@ -37,7 +37,7 @@
             <h3>Create</h3>
             <form action="" method="post" class="form-horizontal">
                 <div class="control-group">
-                    <label class="control-label" for="inputName">Group Name (Please enter your group name as format group1.)</label>
+                    <label class="control-label" for="inputName">Group Name</label>
                     <div class="controls">
                         <input type="text" id="inputName" name="name" />
                     </div>
